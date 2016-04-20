@@ -79,10 +79,10 @@ Lesson  3	39:39
 Lesson  4	39:39
 Lesson  5	39:39
 Lesson  6	39:39
-Lesson  7	39:39
-Lesson  8	39:39
-Lesson  9	39:39
-Lesson 10	39:39
+Lesson  7	41:30
+Lesson  8	37:23
+Lesson  9	44:17
+Lesson 10	37:28
 Lesson 11	39:39
 Lesson 12	39:39
 Lesson 13	39:39

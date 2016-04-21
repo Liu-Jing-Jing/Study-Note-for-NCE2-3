@@ -83,20 +83,22 @@ Lesson  7	41:30
 Lesson  8	37:23
 Lesson  9	44:17
 Lesson 10	37:28
-Lesson 11	39:39
-Lesson 12	39:39
-Lesson 13	39:39
-Lesson 14	39:39
-Lesson 15	39:39
-Lesson 16	39:39
-Lesson 17	39:39
-Lesson 18	39:39
-Lesson 19	39:39
-Lesson 20	39:39
-Lesson 21	39:39
-Lesson 22	39:39
-Lesson 23	39:39
-Lesson 24	39:39
+Lesson 11	33:48
+Lesson 12	37:22
+Lesson 13	36:43
+Lesson 14	41:38
+Lesson 15	42:06
+Lesson 16	40:37
+Lesson 17	41:39
+Lesson 18	38:05
+Lesson 19	38:56
+Lesson 20	47:07
+Lesson 21	40:00
+Lesson 22	43:47
+Lesson 23	40:25
+Lesson 24	33:33
+
+
 Lesson 25	39:39
 Lesson 26	39:39
 Lesson 27	39:39

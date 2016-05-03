@@ -100,9 +100,9 @@ Lesson 23	40:25
 Lesson 24	33:33
 Review1   47:12
 
-Lesson 25	39:39
-Lesson 26	39:39
-Lesson 27	39:39
+Lesson 25	39:40
+Lesson 26	37:33
+Lesson 27	34:28
 Lesson 28	39:39
 Lesson 29	39:39
 Lesson 30	39:39
